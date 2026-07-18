@@ -6,10 +6,6 @@ __pycache__/
 venv/
 env/
 
-# Tasker case tracker - transient per-run report (state file IS tracked for dedup)
-tasker_latest_cases.json
-tasker_latest_cases.md
-
 # OS
 .DS_Store
 Thumbs.db

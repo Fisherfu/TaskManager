@@ -1,0 +1,35 @@
+name: Tasker Case Check
+
+on:
+  schedule:
+    - cron: "50 0 * * *" # 08:50 Asia/Taipei
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - run: python tasker_tracker.py
+
+      - name: Commit updated state and report if changed
+        run: |
+          git config user.name "Tasker Tracker Bot"
+          git config user.email "tasker-tracker@users.noreply.github.com"
+          git add tasker_seen_cases.json tasker_latest_cases.json tasker_latest_cases.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update tasker case tracker state $(date -u +%Y-%m-%d)"
+            git push
+          fi
