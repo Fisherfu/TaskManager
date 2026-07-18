@@ -2,7 +2,7 @@ name: Tasker Case Check
 
 on:
   schedule:
-    - cron: "50 0 * * *" # 08:50 Asia/Taipei
+    - cron: "*/30 * * * *" # every 30 minutes, all day
   workflow_dispatch: {}
 
 permissions:
@@ -21,6 +21,8 @@ jobs:
       - run: pip install -r requirements.txt
 
       - run: python tasker_tracker.py
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
 
       - name: Commit updated state and report if changed
         run: |

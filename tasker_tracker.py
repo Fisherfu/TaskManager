@@ -2,6 +2,8 @@ import json
 import re
 import os
 import ssl
+import smtplib
+from email.mime.text import MIMEText
 from datetime import datetime, timezone, timedelta
 import requests
 from bs4 import BeautifulSoup
@@ -11,6 +13,8 @@ STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "tasker_se
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
+
+NOTIFY_EMAIL = "fuyuangche@gmail.com"
 
 
 class _RelaxedStrictnessAdapter(requests.adapters.HTTPAdapter):
@@ -220,6 +224,31 @@ def generate_report(cases_data):
     return md_content
 
 
+def send_email_notification(cases_data):
+    app_password = os.environ.get("GMAIL_APP_PASSWORD")
+    if not app_password:
+        print("GMAIL_APP_PASSWORD not set, skipping email notification (this is expected for local test runs).")
+        return
+
+    now_taipei = datetime.now(timezone(timedelta(hours=8)))
+    subject = f"Tasker 新案件通知 {now_taipei.strftime('%Y-%m-%d %H:%M')} - {len(cases_data)} 筆符合條件的新案件"
+    body = generate_report(cases_data)
+
+    msg = MIMEText(body, "plain", "utf-8")
+    msg["Subject"] = subject
+    msg["From"] = NOTIFY_EMAIL
+    msg["To"] = NOTIFY_EMAIL
+
+    try:
+        with smtplib.SMTP("smtp.gmail.com", 587, timeout=15) as server:
+            server.starttls(context=ssl.create_default_context())
+            server.login(NOTIFY_EMAIL, app_password)
+            server.send_message(msg)
+        print(f"Sent email notification for {len(cases_data)} new case(s).")
+    except Exception as e:
+        print(f"Error sending email notification: {e}")
+
+
 def main():
     seen_state = load_seen_state()
     all_cases = fetch_tasker_cases()
@@ -260,6 +289,9 @@ def main():
     with open(md_path, "w", encoding="utf-8") as f:
         f.write(md_content)
     print(f"Saved Markdown report to {md_path}")
+
+    if relevant_new_cases:
+        send_email_notification(relevant_new_cases)
 
 
 if __name__ == "__main__":
