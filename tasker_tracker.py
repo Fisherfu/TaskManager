@@ -4,6 +4,7 @@ import os
 import ssl
 import smtplib
 from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 from datetime import datetime, timezone, timedelta
 import requests
 from bs4 import BeautifulSoup
@@ -224,6 +225,44 @@ def generate_report(cases_data):
     return md_content
 
 
+def _html_escape(text):
+    return (
+        text.replace("&", "&amp;")
+        .replace("<", "&lt;")
+        .replace(">", "&gt;")
+    )
+
+
+def generate_email_html(cases_data):
+    now_taipei = datetime.now(timezone(timedelta(hours=8)))
+    html = [
+        "<div style='font-family:sans-serif;font-size:14px;line-height:1.6'>",
+        f"<p>更新時間: {now_taipei.strftime('%Y-%m-%d %H:%M')} (Asia/Taipei)</p>",
+    ]
+
+    for idx, case in enumerate(cases_data, 1):
+        strategy, template = build_strategy_and_template(case, case["matched_groups"])
+        url = _html_escape(case["url"])
+        html.append(f"<h3>{idx}. {_html_escape(case['title'])}</h3>")
+        html.append(
+            f"<p>"
+            f"<b>案件連結</b>: <a href='{url}'>{url}</a><br>"
+            f"<b>執行地點</b>: {_html_escape(case['location'])}<br>"
+            f"<b>預算金額</b>: {_html_escape(case['budget'])}<br>"
+            f"<b>命中分類</b>: {_html_escape(', '.join(case['matched_groups']) or '無(未命中關鍵字，僅供參考)')}"
+            f"</p>"
+        )
+        html.append("<p><b>需求說明</b></p>")
+        html.append(f"<pre style='white-space:pre-wrap'>{_html_escape(case['description'])}</pre>")
+        html.append(f"<p><b>建議投案策略</b>：{_html_escape(strategy)}</p>")
+        html.append("<p><b>提案信範本</b></p>")
+        html.append(f"<pre style='white-space:pre-wrap'>{_html_escape(template)}</pre>")
+        html.append("<hr>")
+
+    html.append("</div>")
+    return "\n".join(html)
+
+
 def send_email_notification(cases_data):
     app_password = os.environ.get("GMAIL_APP_PASSWORD")
     if not app_password:
@@ -232,9 +271,10 @@ def send_email_notification(cases_data):
 
     now_taipei = datetime.now(timezone(timedelta(hours=8)))
     subject = f"Tasker 新案件通知 {now_taipei.strftime('%Y-%m-%d %H:%M')} - {len(cases_data)} 筆符合條件的新案件"
-    body = generate_report(cases_data)
 
-    msg = MIMEText(body, "plain", "utf-8")
+    msg = MIMEMultipart("alternative")
+    msg.attach(MIMEText(generate_report(cases_data), "plain", "utf-8"))
+    msg.attach(MIMEText(generate_email_html(cases_data), "html", "utf-8"))
     msg["Subject"] = subject
     msg["From"] = NOTIFY_EMAIL
     msg["To"] = NOTIFY_EMAIL
