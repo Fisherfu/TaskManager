@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: tasker-check
+  cancel-in-progress: false
+
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -32,6 +36,8 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update tasker case tracker state $(date -u +%Y-%m-%d)"
-            git push
+            git commit -m "Update tasker case tracker state $(date -u +"%Y-%m-%d %H:%M")"
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
           fi
