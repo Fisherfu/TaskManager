@@ -138,5 +138,40 @@
     "title": "寶珠筆設計",
     "first_seen": "2026-07-26T04:05:59.494348+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26072213SSWA04": {
+    "title": "徵全端工程師",
+    "first_seen": "2026-07-26T16:01:43.695932+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26072214CXTC68": {
+    "title": "AI小班制手把手教學指導",
+    "first_seen": "2026-07-26T16:01:44.519816+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26072217LIIE77": {
+    "title": "Labview 程式修改",
+    "first_seen": "2026-07-26T16:01:45.413967+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26072304CLFQ02": {
+    "title": "尋找機器視覺接案工程師",
+    "first_seen": "2026-07-26T16:01:46.269956+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26072305CRLD07": {
+    "title": "我目前要做一個機器人專案",
+    "first_seen": "2026-07-26T16:01:47.159519+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26072311RQZM25": {
+    "title": "業務巡補系統",
+    "first_seen": "2026-07-26T16:01:48.401210+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26072317IODT42": {
+    "title": "感壓啟動電源的雙腳踩踏板",
+    "first_seen": "2026-07-26T16:01:49.273129+00:00",
+    "relevant": false
   }
 }
