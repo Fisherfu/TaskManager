@@ -183,5 +183,10 @@
     "title": "水冷控制系統",
     "first_seen": "2026-07-27T03:56:06.042985+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26072417NJVQ34": {
+    "title": "n8n作語音辨識流程",
+    "first_seen": "2026-07-27T11:22:02.411197+00:00",
+    "relevant": false
   }
 }
