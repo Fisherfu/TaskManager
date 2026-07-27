@@ -173,5 +173,15 @@
     "title": "感壓啟動電源的雙腳踩踏板",
     "first_seen": "2026-07-26T16:01:49.273129+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26072411FDLF90": {
+    "title": "原理圖以及layout",
+    "first_seen": "2026-07-27T03:56:05.265429+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26072410WIUR10": {
+    "title": "水冷控制系統",
+    "first_seen": "2026-07-27T03:56:06.042985+00:00",
+    "relevant": false
   }
 }
