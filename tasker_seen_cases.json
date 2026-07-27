@@ -198,5 +198,15 @@
     "title": "公司creo 設置",
     "first_seen": "2026-07-27T13:53:44.934804+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26072712QSFZ35": {
+    "title": "維護案駐點",
+    "first_seen": "2026-07-27T16:20:23.991441+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26072422WEUM48": {
+    "title": "我用claude或replit寫好網頁跟app後幫我檢查然後上架平台",
+    "first_seen": "2026-07-27T16:20:24.694841+00:00",
+    "relevant": true
   }
 }
