@@ -208,5 +208,15 @@
     "title": "我用claude或replit寫好網頁跟app後幫我檢查然後上架平台",
     "first_seen": "2026-07-27T16:20:24.694841+00:00",
     "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26072710TZGU29": {
+    "title": "於雲端設置指定個股TicK Data並連結AI由我方清洗/驗証",
+    "first_seen": "2026-07-30T03:17:21.149841+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26073010DZRN83": {
+    "title": "程式開發",
+    "first_seen": "2026-07-30T03:17:22.027903+00:00",
+    "relevant": false
   }
 }
