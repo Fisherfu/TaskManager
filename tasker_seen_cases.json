@@ -233,5 +233,10 @@
     "title": "n8n 自動化專家：Line 訂單 AI 解析、多客戶多活動動態比對、ECOUNT 自動建單",
     "first_seen": "2026-07-30T09:13:57.459409+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26072721KCCC05": {
+    "title": "請問有串過crm平台嗎 想使用zoho",
+    "first_seen": "2026-07-30T15:31:17.340001+00:00",
+    "relevant": false
   }
 }
