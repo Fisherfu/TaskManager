@@ -263,5 +263,25 @@
     "title": "程式開發",
     "first_seen": "2026-08-01T11:43:00.304177+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26072905JRDW62": {
+    "title": "販賣機消費POS",
+    "first_seen": "2026-08-02T16:59:03.018443+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26072915PZHH66": {
+    "title": "AI模型",
+    "first_seen": "2026-08-02T16:59:04.035292+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26072917CBCC53": {
+    "title": "設變,圖面整理及建立Bom表",
+    "first_seen": "2026-08-02T16:59:04.886805+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26073013RJAB70": {
+    "title": "Android 自動化運維與數據採集技術合作夥伴（專案承攬／長期維運）",
+    "first_seen": "2026-08-02T16:59:05.780628+00:00",
+    "relevant": true
   }
 }
