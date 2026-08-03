@@ -293,5 +293,10 @@
     "title": "相容性查詢功能優化",
     "first_seen": "2026-08-03T08:48:19.684534+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26080315SJEI14": {
+    "title": "PLC控制盤配線",
+    "first_seen": "2026-08-03T17:24:56.524288+00:00",
+    "relevant": false
   }
 }
