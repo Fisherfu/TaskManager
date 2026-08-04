@@ -313,5 +313,10 @@
     "title": "架設Nvidia RTX SPARK 桌機",
     "first_seen": "2026-08-04T02:32:57.593653+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26080110DXLG61": {
+    "title": "【徵求】React 全端工程師 - 協助 AI 產生原始碼調整與 Vercel 部署",
+    "first_seen": "2026-08-04T15:55:12.854339+00:00",
+    "relevant": true
   }
 }
