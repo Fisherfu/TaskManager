@@ -298,5 +298,20 @@
     "title": "PLC控制盤配線",
     "first_seen": "2026-08-03T17:24:56.524288+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26080104KFJD47": {
+    "title": "60GHz mmWave 雷達客製化 PCB 線路設計",
+    "first_seen": "2026-08-04T02:32:55.742731+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26080317VVTO09": {
+    "title": "熟悉Nextcloud,Rocket.Chat有成功案例的",
+    "first_seen": "2026-08-04T02:32:56.770890+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26080318XXTY37": {
+    "title": "架設Nvidia RTX SPARK 桌機",
+    "first_seen": "2026-08-04T02:32:57.593653+00:00",
+    "relevant": false
   }
 }
