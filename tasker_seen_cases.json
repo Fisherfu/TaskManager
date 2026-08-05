@@ -323,5 +323,10 @@
     "title": "新增PLC控制面板額外功能",
     "first_seen": "2026-08-05T03:43:23.725776+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26080513RLDO29": {
+    "title": "python based 快速三維自動機械臂，自動操作手機屏幕",
+    "first_seen": "2026-08-05T11:36:52.368219+00:00",
+    "relevant": false
   }
 }
