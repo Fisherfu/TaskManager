@@ -328,5 +328,10 @@
     "title": "python based 快速三維自動機械臂，自動操作手機屏幕",
     "first_seen": "2026-08-05T11:36:52.368219+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26080218QTEX40": {
+    "title": "官方網站",
+    "first_seen": "2026-08-06T03:49:30.236081+00:00",
+    "relevant": true
   }
 }
