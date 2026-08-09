@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "title": "約聘全端工程師 (6M)",
+    "url": "https://www.tasker.com.tw/cases/TK26080509BIFR09",
+    "description": "負責企業網站、CMS 及 Web 應用系統的前後端開發與維護。\n根據產品需求進行系統分析、架構設計、API 開發及資料庫設計。\n與 UI/UX、Marketing、IT 及外部開發團隊合作，確保專案如期交付。\n擔任技術窗口，協助需求訪談、時程規劃、風險管理及跨部門溝通……..",
+    "budget": "預算詳談",
+    "location": "可遠端",
+    "matched_groups": [
+      "web",
+      "data"
+    ]
+  },
+  {
+    "title": "維護網站",
+    "url": "https://www.tasker.com.tw/cases/TK26080523XOOX12",
+    "description": "平台例行維運\n資安與備份確認\nGA4……..",
+    "budget": "預算詳談",
+    "location": "可遠端",
+    "matched_groups": [
+      "web"
+    ]
+  },
+  {
+    "title": "shopify的工程師",
+    "url": "https://www.tasker.com.tw/cases/TK26080617DPVL85",
+    "description": "行業：電商\n細節說明：\n想發案！！想找shopify的工程師！！\n能夠設定推薦碼、批發等等\n我們初步想法是\n我們有設定不同等級……..",
+    "budget": "預算詳談",
+    "location": "可遠端",
+    "matched_groups": [
+      "web"
+    ]
+  },
+  {
+    "title": "網頁版票券流通與簡易帳務全端系統開發",
+    "url": "https://www.tasker.com.tw/cases/TK26080619WLMG86",
+    "description": "用於哪個行業：連鎖汽車旅館\n細節說明：實體票券是條碼類型的流水序號，採線下販售線下使用(A館購買B館使用)，系……..",
+    "budget": "預算詳談",
+    "location": "可遠端",
+    "matched_groups": [
+      "web"
+    ]
+  }
+]
