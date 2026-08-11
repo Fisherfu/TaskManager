@@ -428,5 +428,20 @@
     "title": "設計電子元件線路圖",
     "first_seen": "2026-08-11T03:44:15.205544+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26080712SOKR19": {
+    "title": "wordpress",
+    "first_seen": "2026-08-11T10:02:44.585776+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26080711CENY82": {
+    "title": "短影音拍攝需求",
+    "first_seen": "2026-08-11T10:02:45.583852+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26080710FOOS86": {
+    "title": "專案管理",
+    "first_seen": "2026-08-11T10:02:46.486528+00:00",
+    "relevant": true
   }
 }
