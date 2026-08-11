@@ -458,5 +458,15 @@
     "title": "主機HDMI插了顯示無訊號，但插內顯就可以",
     "first_seen": "2026-08-11T14:57:50.431404+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26080823RXXN01": {
+    "title": "ＡＩ客服",
+    "first_seen": "2026-08-11T16:04:26.232719+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26080822UJLA85": {
+    "title": "ai客服自動回覆",
+    "first_seen": "2026-08-11T16:04:27.155226+00:00",
+    "relevant": false
   }
 }
