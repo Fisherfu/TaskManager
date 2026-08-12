@@ -468,5 +468,25 @@
     "title": "ai客服自動回覆",
     "first_seen": "2026-08-11T16:04:27.155226+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26080912POIE08": {
+    "title": "ai 影片內容",
+    "first_seen": "2026-08-12T04:12:55.490570+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26081211GWSO28": {
+    "title": "木工機械研發設計專案",
+    "first_seen": "2026-08-12T04:12:56.395251+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26080911MAYV27": {
+    "title": "公司內部管理網站架設、權限登入及現有程式上架",
+    "first_seen": "2026-08-12T04:12:57.749306+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26080910QTAA63": {
+    "title": "健保系統開發",
+    "first_seen": "2026-08-12T04:12:58.524217+00:00",
+    "relevant": false
   }
 }
