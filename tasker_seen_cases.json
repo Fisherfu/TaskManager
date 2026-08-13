@@ -498,5 +498,25 @@
     "title": "烏絲加熱恆溫輸出",
     "first_seen": "2026-08-12T11:22:12.909746+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26081011IGBH77": {
+    "title": "內部表單網站自動化，Ai Agent",
+    "first_seen": "2026-08-13T04:18:55.988366+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26081011KWJD14": {
+    "title": "鼎新ERP T100系統憑證.報表客製",
+    "first_seen": "2026-08-13T04:18:56.962572+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26080722TCSO37": {
+    "title": "trading model",
+    "first_seen": "2026-08-13T04:18:57.944478+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26080811NTVJ99": {
+    "title": "AI 語音生成&後製合作人員(無經驗可)",
+    "first_seen": "2026-08-13T04:18:58.854296+00:00",
+    "relevant": false
   }
 }
