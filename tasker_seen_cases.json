@@ -523,5 +523,20 @@
     "title": "開發手機閱讀軟體",
     "first_seen": "2026-08-13T11:46:27.232778+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26052713VBMJ97": {
+    "title": "AI影片生成發案",
+    "first_seen": "2026-08-13T13:11:02.623197+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26081020GPWT12": {
+    "title": "電商平台開發ＰＭ",
+    "first_seen": "2026-08-13T13:11:04.136492+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26081019HVEG81": {
+    "title": "網路行銷需求",
+    "first_seen": "2026-08-13T13:11:05.200104+00:00",
+    "relevant": false
   }
 }
