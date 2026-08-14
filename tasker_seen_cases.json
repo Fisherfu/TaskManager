@@ -573,5 +573,15 @@
     "title": "IC邏輯設計",
     "first_seen": "2026-08-14T08:45:23.950616+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26081117PCRK18": {
+    "title": "AI 自動化服務",
+    "first_seen": "2026-08-14T10:02:01.195397+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26081116FCNI29": {
+    "title": "我們在找一位 Python 與 AI 開源庫的設計師",
+    "first_seen": "2026-08-14T10:02:02.276073+00:00",
+    "relevant": false
   }
 }
