@@ -678,5 +678,10 @@
     "title": "將2004至2026家庭照片與影像DVD轉存至固態硬碟並整理驗收",
     "first_seen": "2026-08-17T04:41:43.664095+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26081412WUCE94": {
+    "title": "影像分析軟體開發（可統包）",
+    "first_seen": "2026-08-17T05:34:48.640031+00:00",
+    "relevant": true
   }
 }
