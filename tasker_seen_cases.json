@@ -683,5 +683,15 @@
     "title": "影像分析軟體開發（可統包）",
     "first_seen": "2026-08-17T05:34:48.640031+00:00",
     "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26081413WITE05": {
+    "title": "小智ai 服務器安裝設定",
+    "first_seen": "2026-08-17T06:55:29.445083+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26081713OXSF22": {
+    "title": "文件OCR電子歸檔",
+    "first_seen": "2026-08-17T06:55:30.408369+00:00",
+    "relevant": false
   }
 }
