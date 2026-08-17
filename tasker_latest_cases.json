@@ -1,12 +1,12 @@
 [
   {
-    "title": "WordPress + Enfold 電商網站前端效能優化（單次專案）",
-    "url": "https://www.tasker.com.tw/cases/TK26081401OQUN95",
-    "description": "用於哪個行業：進口衛浴電商網站\n細節說明：1. 首頁載入速度優化\n　　目前首次到訪 Load 8.1 秒，希望降到 3 秒以內。\n　　測試條件：未登入、無痕視窗、桌機 Chrome。\n\n2. 處理 Enfold／Avia 產生的行內 CSS\n　　首頁 HTML 588 KB 未壓縮，其中行內 CSS 417 KB，佔 74%。\n　　HTML 不被瀏覽器快取，等於每次瀏覽都重傳這 417 KB。\n　　希望降到 50 KB 以內，或改為可快取的外部資源。\n\n3. 移除首頁不需要載入的資源\n　……..",
+    "title": "app ai聊天機器人(安卓 IOS）",
+    "url": "https://www.tasker.com.tw/cases/TK26081411HCXH06",
+    "description": "需寫api指示、跟完成app串接\n\nai聊天機器人需求：\n 一、AI完成配對流程\n\n二、AI聊天\n1. AI主動發起聊天\n3. 回覆聊天→  AI根據聊天內容主動延伸\n4. 結束聊天 → 使用者說晚安、再見等情境， AI知道何時停止聊天\n5. 長時間沒聊……..",
     "budget": "預算詳談",
     "location": "可遠端",
     "matched_groups": [
-      "web"
+      "ai"
     ]
   }
 ]
