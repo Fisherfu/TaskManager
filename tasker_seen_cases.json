@@ -663,5 +663,10 @@
     "title": "電腦安裝軟體",
     "first_seen": "2026-08-16T16:24:52.847743+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26081401OQUN95": {
+    "title": "WordPress + Enfold 電商網站前端效能優化（單次專案）",
+    "first_seen": "2026-08-17T02:41:41.885221+00:00",
+    "relevant": true
   }
 }
