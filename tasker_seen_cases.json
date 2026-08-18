@@ -728,5 +728,15 @@
     "title": "ESP32 控制機器設備",
     "first_seen": "2026-08-18T04:35:05.557569+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26081811YOLX67": {
+    "title": "KiCAD Layout",
+    "first_seen": "2026-08-18T07:37:50.858689+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26081814OPCY76": {
+    "title": "程式開發",
+    "first_seen": "2026-08-18T07:37:51.831826+00:00",
+    "relevant": false
   }
 }
