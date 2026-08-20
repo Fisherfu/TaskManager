@@ -788,5 +788,15 @@
     "title": "Meta 後台與 SurveyCake、銷售頁面串接與追蹤建置",
     "first_seen": "2026-08-20T02:37:27.469650+00:00",
     "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26081711RNEE69": {
+    "title": "爬蟲自動化－流程自動化",
+    "first_seen": "2026-08-20T03:46:23.554486+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26081710VRZD52": {
+    "title": "短影音拍攝需求",
+    "first_seen": "2026-08-20T03:46:24.553517+00:00",
+    "relevant": false
   }
 }
