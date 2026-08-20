@@ -778,5 +778,15 @@
     "title": "配盤配線",
     "first_seen": "2026-08-19T16:31:10.783111+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26081710PZFX89": {
+    "title": "車牌辨識系統工程小包",
+    "first_seen": "2026-08-20T02:37:26.457534+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26081623ZRGY99": {
+    "title": "Meta 後台與 SurveyCake、銷售頁面串接與追蹤建置",
+    "first_seen": "2026-08-20T02:37:27.469650+00:00",
+    "relevant": true
   }
 }
