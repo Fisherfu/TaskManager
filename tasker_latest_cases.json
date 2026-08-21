@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "title": "AI客服訓練員",
+    "url": "https://www.tasker.com.tw/cases/TK26082203XDVZ39",
+    "description": "本公司已經請外包商開發AI客服  但效率不佳\n目前已經開發完成 剩下訓練\n外包商是使用OPEN AI GPT-5 mini跟GPT-……..",
+    "budget": "預算詳談",
+    "location": "可遠端",
+    "matched_groups": [
+      "ai"
+    ]
+  }
+]
