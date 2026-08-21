@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "title": "建置WordPress 中文學習網站 (含WooCommerce)",
+    "url": "https://www.tasker.com.tw/cases/TK26081816VMEK11",
+    "description": "背景與目標：我需要建置一個全新的WordPress網站，主題為學中文相關內容，網站將部署在美國主機環境，並整合WooCommerce以支援商品或課程的銷售與收款。目標是做出可長期維護、速度穩定、基本SEO……..",
+    "budget": "預算詳談",
+    "location": "可遠端",
+    "matched_groups": [
+      "web"
+    ]
+  },
+  {
+    "title": "APP開發－iOS",
+    "url": "https://www.tasker.com.tw/cases/TK26081816OQCA23",
+    "description": "Q1. 服務類型：APP 開發\nQ2. APP……..",
+    "budget": "預算詳談",
+    "location": "可遠端",
+    "matched_groups": [
+      "web"
+    ]
+  }
+]
