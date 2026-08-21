@@ -843,5 +843,10 @@
     "title": "APP開發－iOS",
     "first_seen": "2026-08-21T08:40:21.517578+00:00",
     "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26081817SEPY82": {
+    "title": "街口支付串接與測試腳本撰寫及驗收支援",
+    "first_seen": "2026-08-21T09:36:19.073271+00:00",
+    "relevant": false
   }
 }
