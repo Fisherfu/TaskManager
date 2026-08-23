@@ -873,5 +873,55 @@
     "title": "AI自動客服｜蝦皮/LINE/網站",
     "first_seen": "2026-08-22T05:27:09.123890+00:00",
     "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26082015LLVB95": {
+    "title": "長期外包-AI 動態影像與視覺設計師",
+    "first_seen": "2026-08-23T16:25:19.258181+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26082013LJKN54": {
+    "title": "公司流程管理系統軟體",
+    "first_seen": "2026-08-23T16:25:19.747774+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26082013NZIO58": {
+    "title": "穩壓電源基板電路與PCB設計委外",
+    "first_seen": "2026-08-23T16:25:20.232112+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26081916HDIC11": {
+    "title": "汽車CANBUS 系統開發",
+    "first_seen": "2026-08-23T16:25:20.697596+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26081818IYXR19": {
+    "title": "AI 代理人自動化工作流與 API 串接系統整合建置。預算 3~8 萬或以上（依架構與完整度可議）。",
+    "first_seen": "2026-08-23T16:25:21.185022+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26082016ANNQ07": {
+    "title": "AI影片 短視頻",
+    "first_seen": "2026-08-23T16:25:21.648230+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26082016MXYO82": {
+    "title": "AI影片 短視頻",
+    "first_seen": "2026-08-23T16:25:22.205556+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26081916BUGO66": {
+    "title": "Joomla網站速度突然變慢",
+    "first_seen": "2026-08-23T16:25:22.775650+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26081914YPQS70": {
+    "title": "串接api掃描所有上市櫃股票",
+    "first_seen": "2026-08-23T16:25:23.241608+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26081913UYAO18": {
+    "title": "MultiCharts 期貨交易策略程式開發與回測",
+    "first_seen": "2026-08-23T16:25:23.714641+00:00",
+    "relevant": false
   }
 }

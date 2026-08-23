@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "title": "AI 代理人自動化工作流與 API 串接系統整合建置。預算 3~8 萬或以上（依架構與完整度可議）。",
+    "url": "https://www.tasker.com.tw/cases/TK26081818IYXR19",
+    "description": "我正在規劃一套能自動串接 API 執行各種任務的 AI 代理人決策輔助與執行系統。\n\n希望可以像平常使用 ChatGPT 這樣對話，但背景這個 AI 可以不斷跨平台去幫我執行實體任務與決策。\n\n我本身具備基礎的程式邏輯觀念，但希望能找到一位專業的技術夥伴，協助我將系統的底層管線與 AI 整合搭建起來。我不限制您使用的技術棧（無論是開源框架、Python 腳本，或是 Dify / Make.com 等皆可），只要系統能穩定運作，並且符合以下幾個核心訴求即可。\n\n【核心系統需求】\n\n1. 中樞路由與決策整合： 系統能接收輸入指令，自動判斷意圖，並調用對應的 AI 模型或外部工具……..",
+    "budget": "預算詳談",
+    "location": "可遠端",
+    "matched_groups": [
+      "ai"
+    ]
+  },
+  {
+    "title": "Joomla網站速度突然變慢",
+    "url": "https://www.tasker.com.tw/cases/TK26081916BUGO66",
+    "description": "我的網站，不知何時開始……..",
+    "budget": "預算詳談",
+    "location": "可遠端",
+    "matched_groups": [
+      "web"
+    ]
+  }
+]
