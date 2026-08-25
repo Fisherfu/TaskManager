@@ -943,5 +943,10 @@
     "title": "風格品牌網站前端切版（含 Apple 風格滾動逐幀播放特效）",
     "first_seen": "2026-08-25T06:47:14.018665+00:00",
     "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26060217GJKY06": {
+    "title": "簡易圖片和影片剪輯",
+    "first_seen": "2026-08-25T07:43:05.915689+00:00",
+    "relevant": false
   }
 }
