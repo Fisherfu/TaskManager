@@ -1,12 +1,1 @@
-[
-  {
-    "title": "Ubuntu 20.04 Plesk 冷備份建置與故障復原流程交付",
-    "url": "https://www.tasker.com.tw/cases/TK26082313IZTA07",
-    "description": "背景與目標：我在3C產業有兩台伺服器主機，A主機目前正常運作，系統為Ubuntu 20.04並使用Plesk，承載約300多個網站，Plesk內資料量約1.24TB。另有一台B主機同為Ubuntu 20.04且目前較閒置，目標是把B主機建置為A主機的冷備份環境……..",
-    "budget": "預算詳談",
-    "location": "可遠端",
-    "matched_groups": [
-      "web"
-    ]
-  }
-]
+[]
