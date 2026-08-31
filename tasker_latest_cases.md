@@ -1,17 +1,17 @@
 # Tasker 新案件追蹤與投案建議
 
-更新時間: 2026-08-31 19:03 (Asia/Taipei)
+更新時間: 2026-09-01 02:04 (Asia/Taipei)
 
-## 1. 一頁式網站
-- **案件連結**: [https://www.tasker.com.tw/cases/TK26083118VMVT28](https://www.tasker.com.tw/cases/TK26083118VMVT28)
+## 1. APP開發－雙平台
+- **案件連結**: [https://www.tasker.com.tw/cases/TK26082820LRFK79](https://www.tasker.com.tw/cases/TK26082820LRFK79)
 - **執行地點**: 可遠端
 - **預算金額**: 預算詳談
 - **命中分類**: web
 
 ### 需求說明
 ```text
-我正在尋求專家可以提供一頁式網站相關服務，服務內容
-請參考：<a href='https://www.tasker.com.tw/workroom/0V2B76/service-……..
+Q1. 服務類型：APP 開發
+Q2. APP 平台與狀態：i……..
 ```
 
 ### 建議投案策略 & 提案信範本
@@ -19,7 +19,7 @@
 
 **提案信範本**：
 ```text
-您好，我是 Fisherfu 開發團隊，專注於客製化網頁系統與電商建置。針對您的「一頁式網站」，我們能為您提供：
+您好，我是 Fisherfu 開發團隊，專注於客製化網頁系統與電商建置。針對您的「APP開發－雙平台」，我們能為您提供：
 1. 客製化網頁與後台管理系統（採用企業級 Django 框架，內建高安全防護）。
 2. PC/平板響應式介面（RWD）設計，前後台皆可負責。
 3. 部署於雲端平台，實現一鍵自動化部署，並提供 1 年保固。
