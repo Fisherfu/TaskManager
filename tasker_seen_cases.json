@@ -1138,5 +1138,15 @@
     "title": "簡中→台繁遊戲本地化 LQA",
     "first_seen": "2026-09-02T14:08:13.448035+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26083109VREX01": {
+    "title": "AI 短影音生成與剪輯",
+    "first_seen": "2026-09-03T06:13:14.002286+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26083018BCOM92": {
+    "title": "程式開發",
+    "first_seen": "2026-09-03T06:13:14.502283+00:00",
+    "relevant": false
   }
 }
