@@ -34,21 +34,22 @@ Unity 在 CI 環境跑 Editor 需要授權。免費做法：
 
 `Settings > Pages` → Source 選擇 **GitHub Actions**。
 
-## 4. 補完 Unity 專案本體
+## 4. 合併到 main
 
-目前 repo 裡只有 `Assets/Scripts`（純 C# 邏輯），CI 需要一個**完整可建置的 Unity
-專案**才會成功，也就是照 [`SETUP.md`](./SETUP.md) 在本機 Unity Editor 裡：
+workflow 只在 push 到 `main` 時觸發（`github-pages` 環境預設只允許預設分支部署）。
+把 `claude/game-development-v8s48w` 合併進 `main` 後，CI 就會跑起來。
 
-- 建好場景（Player、NPC、Dialogue UI 等 GameObject）並存檔到
-  `Assets/Scenes/Main.unity`
-- 把這個場景加進 `File > Build Settings > Scenes In Build`
-- `File > Build Settings > Platform` 切到 **WebGL**，並在本機先手動 Build 一次，
-  確認沒有錯誤（WebGL 需要額外安裝 Build Support 模組）
-- 把整個專案（含 `ProjectSettings/`、`Packages/`、`Assets/`，`Library/` 不用，
-  已經在 `.gitignore` 排除）commit 並 push 到 `main`
+專案本體不需要你先在本機補：workflow 用的建置進入點是
+`NPCGame.EditorTools.WebGLBuilder.Build`，它會在建置前先確認
+`Assets/Scenes/Main.unity` 存在，不存在就用 `SceneBuilder` 產生一份，
+所以就算 repo 裡沒有 commit 場景檔，CI 也能建出可玩的 WebGL。
 
-完成以上四步後，之後每次 push 有改動，CI 就會自動重新建置並更新
+完成以上四步後，每次 push 有改動就會自動重新建置並更新
 `https://<你的帳號>.github.io/TaskManager/` 這個可玩連結。
+
+> 第一次跑 CI 前我沒辦法在這個環境驗證（沒有 Unity、也沒有你的授權），
+> 如果第一次失敗，多半是授權 secrets 或 Editor 版本抓不到 docker image。
+> 把 Actions 的 log 貼給我，我再幫你調。
 
 ## 想先快速手動測試（不等 CI）
 
