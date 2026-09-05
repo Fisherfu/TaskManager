@@ -72,3 +72,8 @@
 - NPC 好感度/任務系統
 - 存檔（NPC 對話進度、任務狀態）
 - 用 Cinemachine 做鏡頭跟隨
+
+## 部署測試
+
+想讓別人透過瀏覽器連結試玩，請看 [`DEPLOY.md`](./DEPLOY.md)
+（GitHub Actions 自動建置 WebGL 並發布到 GitHub Pages）。

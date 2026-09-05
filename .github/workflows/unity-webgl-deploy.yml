@@ -1,0 +1,73 @@
+name: Unity WebGL Build & Deploy
+
+# Builds the UnityNPCGame project to WebGL and publishes it to GitHub Pages
+# so the prototype can be played in a browser at:
+#   https://<owner>.github.io/<repo>/
+#
+# Requires these repository secrets (Settings > Secrets and variables > Actions):
+#   UNITY_EMAIL    - Unity account email
+#   UNITY_PASSWORD - Unity account password
+#   UNITY_LICENSE  - contents of the .ulf license file (Personal license activation)
+# See UnityNPCGame/SETUP.md for how to obtain the license file.
+#
+# Also requires GitHub Pages to be enabled with Source = "GitHub Actions"
+# (Settings > Pages).
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "UnityNPCGame/**"
+      - ".github/workflows/unity-webgl-deploy.yml"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Build WebGL
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - uses: actions/cache@v4
+        with:
+          path: UnityNPCGame/Library
+          key: Library-UnityNPCGame-WebGL-${{ hashFiles('UnityNPCGame/Assets/**', 'UnityNPCGame/Packages/**', 'UnityNPCGame/ProjectSettings/**') }}
+          restore-keys: |
+            Library-UnityNPCGame-WebGL-
+            Library-UnityNPCGame-
+
+      - name: Build
+        uses: game-ci/unity-builder@v4
+        env:
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+        with:
+          projectPath: UnityNPCGame
+          targetPlatform: WebGL
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: build/WebGL/WebGL
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
