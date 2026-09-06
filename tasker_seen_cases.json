@@ -1203,5 +1203,25 @@
     "title": "LINE會員管理系統(CRM)",
     "first_seen": "2026-09-05T14:42:41.716361+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26090300FUTN83": {
+    "title": "網站架設－會員預約系統",
+    "first_seen": "2026-09-06T18:03:54.436875+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26090215UFHD19": {
+    "title": "生活服務",
+    "first_seen": "2026-09-06T18:03:54.931472+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26090216NIMI40": {
+    "title": "APP開發－iOS",
+    "first_seen": "2026-09-06T18:03:55.446614+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26090208RRKY69": {
+    "title": "程式開發",
+    "first_seen": "2026-09-06T18:03:55.950457+00:00",
+    "relevant": false
   }
 }
