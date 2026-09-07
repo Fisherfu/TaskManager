@@ -1223,5 +1223,15 @@
     "title": "程式開發",
     "first_seen": "2026-09-06T18:03:55.950457+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26090401QUPX49": {
+    "title": "講廠商賴貼文自動化po到fb",
+    "first_seen": "2026-09-07T05:43:55.402033+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26090319HTCV08": {
+    "title": "PCCES遠端執行專案支援與交付",
+    "first_seen": "2026-09-07T05:43:55.976693+00:00",
+    "relevant": false
   }
 }
