@@ -1263,5 +1263,10 @@
     "title": "125kHz, 電路低頻匹配調整",
     "first_seen": "2026-09-08T11:35:21.045873+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26090819RAPM85": {
+    "title": "離心扇吸氣流場壓降模擬",
+    "first_seen": "2026-09-08T16:07:18.908987+00:00",
+    "relevant": false
   }
 }
