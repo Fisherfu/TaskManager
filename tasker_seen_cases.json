@@ -1268,5 +1268,15 @@
     "title": "離心扇吸氣流場壓降模擬",
     "first_seen": "2026-09-08T16:07:18.908987+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26090917NWMS42": {
+    "title": "4軸CNC配線配盤與動作驗證",
+    "first_seen": "2026-09-09T14:12:07.122392+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26090919NCFK11": {
+    "title": "協助將主機板整合成系統",
+    "first_seen": "2026-09-09T14:12:07.564732+00:00",
+    "relevant": false
   }
 }
