@@ -1393,5 +1393,15 @@
     "title": "房屋仲介erp系統，自己需要用自己的表格",
     "first_seen": "2026-09-14T06:46:56.696731+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26091120MHKD86": {
+    "title": "網站架設－一頁式網站",
+    "first_seen": "2026-09-14T13:41:42.807041+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26091415IERX94": {
+    "title": "設備主電源及控制線路設計與維修",
+    "first_seen": "2026-09-14T13:41:43.276785+00:00",
+    "relevant": false
   }
 }
