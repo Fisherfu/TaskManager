@@ -1403,5 +1403,10 @@
     "title": "設備主電源及控制線路設計與維修",
     "first_seen": "2026-09-14T13:41:43.276785+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26091212GTMA03": {
+    "title": "Plesk伺服器冷備份與固定IP設定",
+    "first_seen": "2026-09-15T06:28:34.603470+00:00",
+    "relevant": false
   }
 }
