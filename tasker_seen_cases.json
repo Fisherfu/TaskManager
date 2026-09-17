@@ -1428,5 +1428,30 @@
     "title": "產品外觀設計",
     "first_seen": "2026-09-16T12:43:28.980539+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26091413TREP78": {
+    "title": "wordpress工程師",
+    "first_seen": "2026-09-17T07:14:38.563316+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26091412DPDW73": {
+    "title": "AI行銷短影音製作",
+    "first_seen": "2026-09-17T07:14:39.114406+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26091409ONZO76": {
+    "title": "網站架設－一頁式網站",
+    "first_seen": "2026-09-17T07:14:39.668650+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26091312DTEJ24": {
+    "title": "短影音拍攝需求",
+    "first_seen": "2026-09-17T07:14:40.426735+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26091217AUNK04": {
+    "title": "水晶商品上架官網，新增圖文新增修改。",
+    "first_seen": "2026-09-17T07:14:40.974113+00:00",
+    "relevant": false
   }
 }
