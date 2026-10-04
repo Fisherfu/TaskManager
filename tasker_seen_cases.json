@@ -1718,5 +1718,40 @@
     "title": "公司網路架構及防火牆維護",
     "first_seen": "2026-10-02T10:39:47.638120+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26100109RMKN54": {
+    "title": "想開發App",
+    "first_seen": "2026-10-04T17:59:53.008550+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26093023VNDD39": {
+    "title": "活動AI影片製作",
+    "first_seen": "2026-10-04T17:59:53.480239+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26093016PJBZ89": {
+    "title": "對BGA型的CPU進行重焊",
+    "first_seen": "2026-10-04T17:59:53.938659+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26093014ZBIR67": {
+    "title": "協助打造樣機",
+    "first_seen": "2026-10-04T17:59:54.444051+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26093013QFYY31": {
+    "title": "架設網站",
+    "first_seen": "2026-10-04T17:59:54.917664+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26093006QQEW02": {
+    "title": "Ai影片 1分鐘",
+    "first_seen": "2026-10-04T17:59:55.384263+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26100422ZRUC20": {
+    "title": "媒體操作、行銷文案、網站設立",
+    "first_seen": "2026-10-04T17:59:55.875843+00:00",
+    "relevant": true
   }
 }
