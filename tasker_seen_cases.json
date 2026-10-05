@@ -1753,5 +1753,30 @@
     "title": "媒體操作、行銷文案、網站設立",
     "first_seen": "2026-10-04T17:59:55.875843+00:00",
     "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26100213IWIQ41": {
+    "title": "短影音拍攝需求",
+    "first_seen": "2026-10-05T06:03:00.130108+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26100212NZPW53": {
+    "title": "軟體測試跟設計",
+    "first_seen": "2026-10-05T06:03:00.627664+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26100210DJPL41": {
+    "title": "網站架設",
+    "first_seen": "2026-10-05T06:03:01.140075+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26100208QMOJ68": {
+    "title": "ESP32 氣味辨識優化",
+    "first_seen": "2026-10-05T06:03:01.630010+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26100206KRDL90": {
+    "title": "研發治理與技術安全負責人",
+    "first_seen": "2026-10-05T06:03:02.151851+00:00",
+    "relevant": false
   }
 }
