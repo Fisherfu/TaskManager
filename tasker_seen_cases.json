@@ -1828,5 +1828,55 @@
     "title": "離線推播 訊息",
     "first_seen": "2026-10-09T06:29:54.045027+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26100719DKMU07": {
+    "title": "接手既有 Web Demo，協助後端、資料庫、權限、部署及醫療 PoC 技術落地",
+    "first_seen": "2026-10-11T19:56:44.504713+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26100719ZQJP78": {
+    "title": "台中徵 AI 巡檢機器人專題指導老師／工程師",
+    "first_seen": "2026-10-11T19:56:44.974519+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26100614JRQF22": {
+    "title": "開發一款能自動追蹤籃球員比賽片段，並匯出剪輯時間軸 (XML) 的腳本",
+    "first_seen": "2026-10-11T19:56:45.463575+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26100611EHPV41": {
+    "title": "led燈電路板",
+    "first_seen": "2026-10-11T19:56:45.967007+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26100820VQNL54": {
+    "title": "安裝機車防盜器",
+    "first_seen": "2026-10-11T19:56:46.425174+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26100816ORGG54": {
+    "title": "weebly轉移",
+    "first_seen": "2026-10-11T19:56:46.925998+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26100717DRKJ62": {
+    "title": "小米 Xiaomi 18 Fold 遠端引導載入解鎖、核心權限與底層除錯環境建置（純遠端連線／研究用途）",
+    "first_seen": "2026-10-11T19:56:47.443727+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26100707KLGN31": {
+    "title": "軟體開發需求",
+    "first_seen": "2026-10-11T19:56:47.921770+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26100702TLWX15": {
+    "title": "網站架設－電商網站",
+    "first_seen": "2026-10-11T19:56:48.399320+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26100612JOZS38": {
+    "title": "SHOPLINE 官網設計／改版接案者",
+    "first_seen": "2026-10-11T19:56:48.875189+00:00",
+    "relevant": true
   }
 }
