@@ -1918,5 +1918,10 @@
     "title": "WordPress 設定 Meta Pixel 購買追蹤",
     "first_seen": "2026-10-15T04:59:40.778784+00:00",
     "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26101222EWUK48": {
+    "title": "逆向建模",
+    "first_seen": "2026-10-15T14:41:55.534386+00:00",
+    "relevant": false
   }
 }
