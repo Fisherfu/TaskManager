@@ -1973,5 +1973,25 @@
     "title": "APP開發",
     "first_seen": "2026-10-16T18:38:30.082791+00:00",
     "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26101518WEUI29": {
+    "title": "官網架設還有賴架設",
+    "first_seen": "2026-10-18T16:22:53.014383+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26101414NNSB46": {
+    "title": "派單工程師(須具備英文條件)",
+    "first_seen": "2026-10-18T16:22:53.528495+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26101522MBRN90": {
+    "title": "網站建置",
+    "first_seen": "2026-10-18T16:22:54.043701+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26101416GGAP78": {
+    "title": "基本的Excel，可依需求修改",
+    "first_seen": "2026-10-18T16:22:54.579408+00:00",
+    "relevant": false
   }
 }
