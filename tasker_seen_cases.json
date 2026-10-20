@@ -1998,5 +1998,10 @@
     "title": "晶片版作接霧化高聲波裝置",
     "first_seen": "2026-10-19T03:33:16.493504+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26102006COIH57": {
+    "title": "ARM® Cortex®-NUC123  NuMicro  微控制器 IC 32-位元 QFN33",
+    "first_seen": "2026-10-20T05:42:05.936473+00:00",
+    "relevant": false
   }
 }
