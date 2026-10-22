@@ -2018,5 +2018,25 @@
     "title": "高雄網站建置",
     "first_seen": "2026-10-22T05:11:44.437991+00:00",
     "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26102213VGGN49": {
+    "title": "(10/29新北兼職) AI 資料現場採集員",
+    "first_seen": "2026-10-22T10:26:30.930567+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26102213JCRS27": {
+    "title": "(10/27桃園兼職) AI 資料現場採集員",
+    "first_seen": "2026-10-22T10:26:31.426984+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26101916KHGT92": {
+    "title": "想製作一系列AI短片",
+    "first_seen": "2026-10-22T10:26:31.916305+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26101914TNQX08": {
+    "title": "電商商品製作 使用AI工具 大量生成",
+    "first_seen": "2026-10-22T10:26:32.405334+00:00",
+    "relevant": true
   }
 }
