@@ -2038,5 +2038,10 @@
     "title": "電商商品製作 使用AI工具 大量生成",
     "first_seen": "2026-10-22T10:26:32.405334+00:00",
     "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26101921ZHYX12": {
+    "title": "AI 短影音",
+    "first_seen": "2026-10-22T15:30:07.102071+00:00",
+    "relevant": false
   }
 }
