@@ -2098,5 +2098,10 @@
     "title": "電腦卡片拆裝",
     "first_seen": "2026-10-28T10:44:29.879151+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26102820WKVL72": {
+    "title": "CNC零件加工",
+    "first_seen": "2026-10-28T17:00:15.553390+00:00",
+    "relevant": false
   }
 }
