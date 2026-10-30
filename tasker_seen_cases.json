@@ -2138,5 +2138,15 @@
     "title": "簡化公司行政報表流程與自動化",
     "first_seen": "2026-10-30T06:14:10.097438+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26103011RXOA68": {
+    "title": "會修改電路圖的相關設計",
+    "first_seen": "2026-10-30T13:20:17.294374+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26103011JZBS09": {
+    "title": "PCB電路修改",
+    "first_seen": "2026-10-30T13:20:17.841744+00:00",
+    "relevant": false
   }
 }
