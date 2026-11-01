@@ -2148,5 +2148,35 @@
     "title": "PCB電路修改",
     "first_seen": "2026-10-30T13:20:17.841744+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26102912GHAI59": {
+    "title": "寫下單通知程式",
+    "first_seen": "2026-11-01T20:15:17.081318+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26110119CTUC61": {
+    "title": "專案外包徵求｜Arduino M0 × RS-485 通訊整合",
+    "first_seen": "2026-11-01T20:15:17.593737+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26102901RFRQ06": {
+    "title": "徵求 Canva 官網商品上架人員｜遠端接案",
+    "first_seen": "2026-11-01T20:15:18.106998+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26102820QVUG97": {
+    "title": "遠端安裝 D2R Mobile",
+    "first_seen": "2026-11-01T20:15:18.614116+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26102812FCZO99": {
+    "title": "二台NAS的移機後設定作業",
+    "first_seen": "2026-11-01T20:15:19.125305+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26102810FJBM25": {
+    "title": "檢修更換三孔網路壁座",
+    "first_seen": "2026-11-01T20:15:19.671568+00:00",
+    "relevant": false
   }
 }
