@@ -2178,5 +2178,15 @@
     "title": "檢修更換三孔網路壁座",
     "first_seen": "2026-11-01T20:15:19.671568+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26103012YAAC97": {
+    "title": "機械機構圖面繪製",
+    "first_seen": "2026-11-02T04:45:55.612405+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26102922ZPFC08": {
+    "title": "arduino",
+    "first_seen": "2026-11-02T04:45:56.096425+00:00",
+    "relevant": false
   }
 }
