@@ -2193,5 +2193,10 @@
     "title": "診所網站與社群長期維運",
     "first_seen": "2026-11-02T13:09:18.268601+00:00",
     "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26103023CVDX74": {
+    "title": "系統開發－ERP進銷存",
+    "first_seen": "2026-11-02T22:25:08.397137+00:00",
+    "relevant": false
   }
 }
