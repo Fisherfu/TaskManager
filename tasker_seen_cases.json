@@ -2208,5 +2208,20 @@
     "title": "模組載板",
     "first_seen": "2026-11-04T06:51:47.719028+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26110120LGCI40": {
+    "title": "Synology NAS × 網頁檔案管理 × 數位看板輪播系統",
+    "first_seen": "2026-11-05T09:01:45.609158+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26110204DOPN96": {
+    "title": "短影音拍攝需求",
+    "first_seen": "2026-11-05T09:01:46.096034+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26110113TRKL99": {
+    "title": "Windows軟體逆向工程、邏輯移植與全新自動化控制工具開發",
+    "first_seen": "2026-11-05T09:01:46.697744+00:00",
+    "relevant": false
   }
 }

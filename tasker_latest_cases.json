@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "title": "Synology NAS × 網頁檔案管理 × 數位看板輪播系統",
+    "url": "https://www.tasker.com.tw/cases/TK26110120LGCI40",
+    "description": "📌 專案需求說明\n\n預計使用 Synology（群暉）NAS 作為內網的檔案管理中心，建立一套網頁管理平台，讓管理人員可以透過瀏覽器上傳、管理及排序 MP4 影音檔案。\n內網環境中會有多台 Windows 電腦，分別連接不同的數位看板，希望能透過管理平台指定各台電腦需要播放的影片內容及順序，讓各台看板依照設定自動循環播放。\n\n開發項目：\n\n1. NAS 檔案管理\n- 使用 Synology NAS 作為影片儲存中心\n-……..",
+    "budget": "預算詳談",
+    "location": "可遠端",
+    "matched_groups": [
+      "web"
+    ]
+  }
+]
