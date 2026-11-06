@@ -2238,5 +2238,30 @@
     "title": "花東、台南資訊系統維護人員",
     "first_seen": "2026-11-06T03:32:40.831281+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26110316IUHW32": {
+    "title": "PCB Layout",
+    "first_seen": "2026-11-06T11:51:18.752899+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26110316ZVNR14": {
+    "title": "表格優化",
+    "first_seen": "2026-11-06T11:51:19.290379+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26110314JUCP53": {
+    "title": "java 程式並發問題檢查",
+    "first_seen": "2026-11-06T11:51:19.841643+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26110314FORT69": {
+    "title": "社群平台AI自動回覆串接",
+    "first_seen": "2026-11-06T11:51:20.379943+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26110520FKIT17": {
+    "title": "居家WiFi斷線檢測與設定",
+    "first_seen": "2026-11-06T11:51:20.921842+00:00",
+    "relevant": false
   }
 }
