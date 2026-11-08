@@ -2263,5 +2263,35 @@
     "title": "居家WiFi斷線檢測與設定",
     "first_seen": "2026-11-06T11:51:20.921842+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26110422TEDF90": {
+    "title": "串接血壓計數據到指定line@",
+    "first_seen": "2026-11-08T18:57:28.428517+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26110416YQWJ33": {
+    "title": "全屋Home Assistant規劃佈線",
+    "first_seen": "2026-11-08T18:57:28.960509+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26110410IMQB88": {
+    "title": "網站設計",
+    "first_seen": "2026-11-08T18:57:29.518335+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26110409HMFN65": {
+    "title": "OpenARM 馬達設定與 Linux 通訊整合",
+    "first_seen": "2026-11-08T18:57:30.062005+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26110523ECVV58": {
+    "title": "系統開發－排班預約系統",
+    "first_seen": "2026-11-08T18:57:30.594786+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26110416AODO49": {
+    "title": "AI故事製作",
+    "first_seen": "2026-11-08T18:57:31.138719+00:00",
+    "relevant": false
   }
 }
