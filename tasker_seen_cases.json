@@ -2298,5 +2298,10 @@
     "title": "舊款遊戲換皮與聲音",
     "first_seen": "2026-11-09T10:06:07.627794+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26110621FTRK44": {
+    "title": "蝦皮 momo 酷澎詢價自動通知",
+    "first_seen": "2026-11-09T20:57:25.402992+00:00",
+    "relevant": true
   }
 }

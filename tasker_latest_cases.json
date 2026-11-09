@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "title": "蝦皮 momo 酷澎詢價自動通知",
+    "url": "https://www.tasker.com.tw/cases/TK26110621FTRK44",
+    "description": "本身經營蝦皮 momo等電商平……..",
+    "budget": "預算詳談",
+    "location": "可遠端",
+    "matched_groups": [
+      "web"
+    ]
+  }
+]
