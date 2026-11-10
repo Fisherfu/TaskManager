@@ -2303,5 +2303,10 @@
     "title": "蝦皮 momo 酷澎詢價自動通知",
     "first_seen": "2026-11-09T20:57:25.402992+00:00",
     "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26110720YKFD69": {
+    "title": "系統開發－ERP進銷存",
+    "first_seen": "2026-11-10T19:23:51.389827+00:00",
+    "relevant": false
   }
 }
