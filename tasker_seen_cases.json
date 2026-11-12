@@ -2348,5 +2348,10 @@
     "title": "A1辨識,邏輯運算",
     "first_seen": "2026-11-12T02:43:22.035391+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26110917WBCS01": {
+    "title": "Ai短影音15～20秒",
+    "first_seen": "2026-11-12T10:42:38.373345+00:00",
+    "relevant": false
   }
 }
