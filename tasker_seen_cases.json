@@ -2463,5 +2463,10 @@
     "title": "既有網站新增網頁選項",
     "first_seen": "2026-11-23T18:36:55.884087+00:00",
     "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26112110TWPP07": {
+    "title": "C語言股票自動下單程式開發",
+    "first_seen": "2026-11-24T04:11:45.338886+00:00",
+    "relevant": false
   }
 }
