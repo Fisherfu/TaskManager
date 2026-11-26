@@ -2478,5 +2478,20 @@
     "title": "工廠溫控設備維修",
     "first_seen": "2026-11-26T02:03:21.221236+00:00",
     "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26112314WXCP22": {
+    "title": "作網站的一個功能",
+    "first_seen": "2026-11-26T11:18:19.108178+00:00",
+    "relevant": true
+  },
+  "https://www.tasker.com.tw/cases/TK26112613KFMJ50": {
+    "title": "產品設計CFD流場模擬分析",
+    "first_seen": "2026-11-26T11:18:19.671942+00:00",
+    "relevant": false
+  },
+  "https://www.tasker.com.tw/cases/TK26112310ARUY21": {
+    "title": "鏡片固定片設計",
+    "first_seen": "2026-11-26T11:18:20.197419+00:00",
+    "relevant": false
   }
 }
